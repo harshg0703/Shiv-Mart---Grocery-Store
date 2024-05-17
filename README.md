@@ -1,0 +1,1 @@
+Shiv Mart is a startup that guarantees delivery within 20 minutes of specified locations. Shiv Mart is only available on mobile platforms, our job is to make the shopping experience available to web users as well.
